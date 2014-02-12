@@ -1,0 +1,48 @@
+Introduction to Factor
+2014-02-12
+
+Topics (notes on what I'd like to cover)
+
+what kind of language is Factor?
+    new and young
+    stack-oriented / functional / object-oriented
+    dynamically typed
+    compiled and interpreted
+    self-hosting
+    automatic memory management
+syntax
+    how to comments
+    define functions
+    call functions
+    quotations
+stack operations
+    dup, drop, swap
+data types and operations
+    numbers
+    strings
+    arrays
+run things in listener
+    shortcuts
+        F1:     interactive help
+        F2:     reload sources
+        ^H:     help on word under cursor
+        ^P:     previous in history
+        ^N:     next in history
+        ^K:     clear line
+        ^Z:     undo
+        ^Y:     redo
+run scripts
+i/o
+
+Introduction
+    who I am, what are we doing
+    set up installations
+    make sure people are on mailing list
+
+Tutorial
+    follow the "Your first program" tutorial
+
+Something else
+    pick some simple problem, try to figure out how to solve
+    it in Factor
+    20: GOTO 10
